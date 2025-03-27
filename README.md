@@ -19,7 +19,7 @@ I'm Abdoul Aziz, a junior Java developer based in Conakry – a vibrant and dyna
 ## Contact Me
 
 - 📧 [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=abdoulaziz22.d@gmail.com)
-- 🔗 [My LinkedIn Profile](www.linkedin.com/in/abdoul-aziz-diallo-828a40305)
+- 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/abdoul-aziz-diallo-828a40305)
 
 
 
